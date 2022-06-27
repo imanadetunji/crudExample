@@ -13,12 +13,11 @@ class JdbcTemplateMainTest {
     @Test
     void getParents(){
         //given
+        JdbcTemplate jdbcTemplate = JdbcTemplateMain.getConnectedJdbcTemplate() ;
 
         //when
 
         //then
-        JdbcTemplate jdbcTemplate = new JdbcTemplate(JdbcTemplateMain.con);
-//        JdbcTemplateMain.con.setUrl("jdbc:mysql://localhost:3306/mydb?useSSL=false");
         assertNotNull(jdbcTemplate.query(DBHelper.PARENT_SELECT_QUERY, new ParentRowMapper()));
 
     }
