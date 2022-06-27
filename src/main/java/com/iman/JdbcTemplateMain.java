@@ -12,18 +12,27 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import java.util.List;
 
 public class JdbcTemplateMain {
-    public static DriverManagerDataSource con = new DriverManagerDataSource();
-    public static JdbcTemplate jdbcTemplate = new JdbcTemplate(con);
+    //public static DriverManagerDataSource con = new DriverManagerDataSource();
+    public static JdbcTemplate jdbcTemplate ;
     public static void main(String[] args) {
 
-        con.setDriverClassName("com.mysql.cj.jdbc.Driver");
-        con.setUrl("jdbc:mysql://localhost:3306/mydb?useSSL=false");
-        con.setPassword("FineFurryFriends@4626");
-        con.setUsername("root");
+        jdbcTemplate = getConnectedJdbcTemplate();
 
         JdbcTemplateMain main = new JdbcTemplateMain();
         main.getParents();
         //main.getAllChildren();
+    }
+
+    public static JdbcTemplate getConnectedJdbcTemplate() {
+        DriverManagerDataSource con = new DriverManagerDataSource();
+        con.setDriverClassName("com.mysql.cj.jdbc.Driver");
+        con.setUrl("jdbc:mysql://localhost:3306/mydb?useSSL=false");
+        con.setPassword("FineFurryFriends@4626");
+        con.setUsername("root");
+        JdbcTemplate jdbcTemplate = new JdbcTemplate(con);
+
+        return jdbcTemplate;
+
     }
 
     // SELECT * FROM Parents;
