@@ -1,0 +1,532 @@
+2022-06-19 19:08:04,168 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,190 INFO c.i.Main [main] query executed successfully
+2022-06-19 19:08:04,201 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,217 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,225 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 19:08:04,225 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,226 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,228 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 19:08:04,228 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,230 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,232 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 19:08:04,232 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,233 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,234 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 19:08:04,235 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,236 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,237 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 19:08:04,239 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,239 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,240 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 19:08:04,241 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,241 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,243 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 19:08:04,243 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,244 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,246 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 19:08:04,246 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,247 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,249 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 19:08:04,250 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:08:04,250 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:08:04,252 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 19:28:14,738 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,766 INFO c.i.Main [main] query executed successfully
+2022-06-19 19:28:14,771 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,790 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,799 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 19:28:14,799 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,800 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,803 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 19:28:14,803 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,804 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,807 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 19:28:14,807 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,807 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,810 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 19:28:14,810 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,810 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,812 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 19:28:14,813 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,814 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,815 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 19:28:14,817 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,817 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,820 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 19:28:14,820 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,820 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,821 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 19:28:14,821 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,824 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,825 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 19:28:14,826 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:28:14,826 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,828 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 19:28:14,830 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:28:14,854 ERROR c.i.Main [main] An exception occurred
+java.sql.SQLException: Column count doesn't match value count at row 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:768) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:653) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at main.java.com.iman.JdbcMain.addNewParent(Main.java:111) ~[crudExample/:?]
+	at main.java.com.iman.JdbcMain.connectAndPrint(Main.java:34) ~[crudExample/:?]
+	at main.java.com.iman.JdbcMain.main(Main.java:18) ~[crudExample/:?]
+2022-06-19 19:34:27,978 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:27,995 INFO c.i.Main [main] query executed successfully
+2022-06-19 19:34:27,998 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,006 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,018 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 19:34:28,018 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,018 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,021 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 19:34:28,021 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,022 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,024 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 19:34:28,024 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,024 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,026 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 19:34:28,026 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,027 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,028 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 19:34:28,028 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,029 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,030 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 19:34:28,031 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,031 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,033 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 19:34:28,034 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,034 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,034 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 19:34:28,034 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,034 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,034 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 19:34:28,039 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,039 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,040 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 19:34:28,041 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:34:28,041 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,043 INFO c.i.Main [main] Query returned 0 record(s) for Akeem
+2022-06-19 19:34:28,044 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:34:28,053 INFO c.i.Main [main] query not executed. an error has occurred.
+2022-06-19 19:50:54,577 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,596 INFO c.i.Main [main] query executed successfully
+2022-06-19 19:50:54,600 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,613 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,622 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 19:50:54,622 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,622 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,624 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 19:50:54,624 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,625 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,628 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 19:50:54,628 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,629 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,631 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 19:50:54,632 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,633 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,634 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 19:50:54,634 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,635 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,637 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 19:50:54,638 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,638 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,641 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 19:50:54,641 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,642 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,644 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 19:50:54,644 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,645 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,647 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 19:50:54,648 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,649 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,650 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 19:50:54,650 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,651 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,653 INFO c.i.Main [main] Query returned 0 record(s) for Akeem
+2022-06-19 19:50:54,653 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:50:54,654 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,655 INFO c.i.Main [main] Query returned 0 record(s) for Karen
+2022-06-19 19:50:54,658 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:50:54,666 INFO c.i.Main [main] query not executed. an error has occurred.
+2022-06-19 19:54:31,924 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,943 INFO c.i.Main [main] query executed successfully
+2022-06-19 19:54:31,945 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,959 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,965 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 19:54:31,966 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,966 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,968 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 19:54:31,968 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,969 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,971 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 19:54:31,972 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,972 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,974 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 19:54:31,974 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,974 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,977 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 19:54:31,977 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,977 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,979 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 19:54:31,979 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,980 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,981 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 19:54:31,982 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,982 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,982 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 19:54:31,982 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,982 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,982 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 19:54:31,982 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,987 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,989 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 19:54:31,989 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,990 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,990 INFO c.i.Main [main] Query returned 0 record(s) for Akeem
+2022-06-19 19:54:31,990 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,990 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,990 INFO c.i.Main [main] Query returned 0 record(s) for Karen
+2022-06-19 19:54:31,990 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 19:54:31,990 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:31,997 INFO c.i.Main [main] Query returned 0 record(s) for Iman
+2022-06-19 19:54:31,998 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 19:54:32,006 INFO c.i.Main [main] query not executed. an error has occurred.
+2022-06-19 20:10:38,104 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,122 INFO c.i.Main [main] query executed successfully
+2022-06-19 20:10:38,122 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,138 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,148 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 20:10:38,154 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,155 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,158 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 20:10:38,158 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,158 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,163 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 20:10:38,163 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,163 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,163 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 20:10:38,171 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,173 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,176 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 20:10:38,177 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,177 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,178 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 20:10:38,178 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,178 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,185 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 20:10:38,187 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,187 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,189 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 20:10:38,189 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,189 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,189 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 20:10:38,189 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,197 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,199 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 20:10:38,199 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,199 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,199 INFO c.i.Main [main] Query returned 0 record(s) for Akeem
+2022-06-19 20:10:38,205 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,205 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,205 INFO c.i.Main [main] Query returned 0 record(s) for Karen
+2022-06-19 20:10:38,205 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,205 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,215 INFO c.i.Main [main] Query returned 0 record(s) for Iman
+2022-06-19 20:10:38,215 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:10:38,215 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,221 INFO c.i.Main [main] Query returned 0 record(s) for Iman
+2022-06-19 20:10:38,224 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,234 INFO c.i.Main [main] query executed successfully
+2022-06-19 20:10:38,234 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:10:38,257 ERROR c.i.Main [main] An exception occurred
+java.sql.SQLException: Field 'ChildID' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdateInternal(StatementImpl.java:1340) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeLargeUpdate(StatementImpl.java:2089) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1251) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at main.java.com.iman.JdbcMain.addParentOrChild(Main.java:116) ~[crudExample/:?]
+	at main.java.com.iman.JdbcMain.connectAndPrint(Main.java:35) ~[crudExample/:?]
+	at main.java.com.iman.JdbcMain.main(Main.java:18) ~[crudExample/:?]
+2022-06-19 20:14:02,474 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,491 INFO c.i.Main [main] query executed successfully
+2022-06-19 20:14:02,492 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,501 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,513 INFO c.i.Main [main] Query returned 3 record(s) for John
+2022-06-19 20:14:02,513 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,513 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,515 INFO c.i.Main [main] Query returned 1 record(s) for Jane
+2022-06-19 20:14:02,515 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,515 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,519 INFO c.i.Main [main] Query returned 2 record(s) for Faye
+2022-06-19 20:14:02,519 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,520 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,521 INFO c.i.Main [main] Query returned 2 record(s) for Daniel
+2022-06-19 20:14:02,521 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,521 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,525 INFO c.i.Main [main] Query returned 0 record(s) for Sam
+2022-06-19 20:14:02,525 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,525 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,526 INFO c.i.Main [main] Query returned 0 record(s) for Linda
+2022-06-19 20:14:02,526 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,526 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,526 INFO c.i.Main [main] Query returned 1 record(s) for Sasha
+2022-06-19 20:14:02,526 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,531 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,531 INFO c.i.Main [main] Query returned 1 record(s) for Lisa
+2022-06-19 20:14:02,531 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,531 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,531 INFO c.i.Main [main] Query returned 0 record(s) for Matthew
+2022-06-19 20:14:02,531 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,531 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,531 INFO c.i.Main [main] Query returned 0 record(s) for Jesus
+2022-06-19 20:14:02,539 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,539 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,541 INFO c.i.Main [main] Query returned 0 record(s) for James
+2022-06-19 20:14:02,541 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,541 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,541 INFO c.i.Main [main] Query returned 0 record(s) for Karen
+2022-06-19 20:14:02,541 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,544 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,545 INFO c.i.Main [main] Query returned 0 record(s) for Iman
+2022-06-19 20:14:02,545 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,545 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,548 INFO c.i.Main [main] Query returned 0 record(s) for Iman
+2022-06-19 20:14:02,549 DEBUG c.i.Main [main] Connection to database Successful
+2022-06-19 20:14:02,549 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,551 INFO c.i.Main [main] Query returned 0 record(s) for Iman
+2022-06-19 20:14:02,552 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,562 INFO c.i.Main [main] query executed successfully
+2022-06-19 20:14:02,562 INFO c.i.Main [main] an sql statement successfully created
+2022-06-19 20:14:02,565 INFO c.i.Main [main] query executed successfully
+2022-06-19 20:37:15,395 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-19 20:37:15,416 INFO c.i.j.JdbcHelper [main] query executed successfully
+2022-06-19 20:37:15,420 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,436 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,440 INFO c.i.j.JdbcHelper [main] Query returned 3 record(s) for John
+2022-06-19 20:37:15,444 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,445 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,447 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Jane
+2022-06-19 20:37:15,447 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,448 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,450 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Faye
+2022-06-19 20:37:15,450 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,450 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,453 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Daniel
+2022-06-19 20:37:15,455 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,455 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,457 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Sam
+2022-06-19 20:37:15,458 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,458 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,460 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Linda
+2022-06-19 20:37:15,460 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,460 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,463 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Sasha
+2022-06-19 20:37:15,463 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,464 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,466 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Lisa
+2022-06-19 20:37:15,467 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,467 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,469 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Matthew
+2022-06-19 20:37:15,470 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,470 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,472 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Jesus
+2022-06-19 20:37:15,472 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,473 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,475 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for James
+2022-06-19 20:37:15,475 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,476 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,477 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Karen
+2022-06-19 20:37:15,477 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,477 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,480 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 20:37:15,480 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,481 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,483 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 20:37:15,483 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,483 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,485 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 20:37:15,485 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 20:37:15,486 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 20:37:15,487 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 20:37:15,487 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-19 20:37:15,496 INFO c.i.j.JdbcHelper [main] query executed successfully
+2022-06-19 20:37:15,497 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-19 20:37:15,511 ERROR c.i.j.JdbcHelper [main] An exception occurred
+java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '510' for key 'child.PRIMARY'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:117) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdateInternal(StatementImpl.java:1340) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeLargeUpdate(StatementImpl.java:2089) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1251) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at main.java.com.iman.jdbc.JdbcHelper.addParentOrChild(JdbcHelper.java:109) ~[crudExample/:?]
+	at main.java.com.iman.jdbc.JdbcHelper.connectAndPrint(JdbcHelper.java:28) ~[crudExample/:?]
+	at main.java.com.iman.JdbcMain.main(Main.java:17) ~[crudExample/:?]
+2022-06-19 22:36:33,960 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-19 22:36:33,969 INFO c.i.j.JdbcHelper [main] query executed successfully
+2022-06-19 22:36:33,971 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,978 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,983 INFO c.i.j.JdbcHelper [main] Query returned 3 record(s) for John
+2022-06-19 22:36:33,983 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,984 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,985 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Jane
+2022-06-19 22:36:33,985 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,985 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,987 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Faye
+2022-06-19 22:36:33,987 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,987 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,989 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Daniel
+2022-06-19 22:36:33,989 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,989 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,991 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Sam
+2022-06-19 22:36:33,991 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,991 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,992 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Linda
+2022-06-19 22:36:33,992 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,993 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,994 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Sasha
+2022-06-19 22:36:33,994 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,995 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,996 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Lisa
+2022-06-19 22:36:33,996 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,997 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,998 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Matthew
+2022-06-19 22:36:33,998 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:33,998 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:33,999 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Jesus
+2022-06-19 22:36:34,000 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,000 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,001 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for James
+2022-06-19 22:36:34,001 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,002 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,003 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Karen
+2022-06-19 22:36:34,003 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,003 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,004 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 22:36:34,004 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,005 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,006 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 22:36:34,006 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,006 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,007 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 22:36:34,007 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,007 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,008 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-19 22:36:34,008 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-19 22:36:34,008 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-19 22:36:34,009 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Iman
+2022-06-23 14:10:39,730 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-23 14:10:39,739 INFO c.i.j.JdbcHelper [main] query executed successfully
+2022-06-23 14:10:39,741 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,748 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,752 INFO c.i.j.JdbcHelper [main] Query returned 3 record(s) for John
+2022-06-23 14:10:39,752 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,752 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,753 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Jane
+2022-06-23 14:10:39,753 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,753 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,754 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Faye
+2022-06-23 14:10:39,755 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,755 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,756 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Daniel
+2022-06-23 14:10:39,756 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,756 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,757 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Sam
+2022-06-23 14:10:39,757 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,757 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,758 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Linda
+2022-06-23 14:10:39,758 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,759 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,760 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Sasha
+2022-06-23 14:10:39,760 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,760 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,761 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Lisa
+2022-06-23 14:10:39,761 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,761 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,762 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Matthew
+2022-06-23 14:10:39,762 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,763 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,764 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Jesus
+2022-06-23 14:10:39,764 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,764 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,765 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for James
+2022-06-23 14:10:39,765 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 14:10:39,765 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 14:10:39,766 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Karen
+2022-06-23 17:56:33,392 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-23 17:56:33,411 INFO c.i.j.JdbcHelper [main] query executed successfully
+2022-06-23 17:56:33,415 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,429 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,439 INFO c.i.j.JdbcHelper [main] Query returned 3 record(s) for John
+2022-06-23 17:56:33,439 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,440 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,442 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Jane
+2022-06-23 17:56:33,442 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,443 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,446 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Faye
+2022-06-23 17:56:33,446 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,447 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,450 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Daniel
+2022-06-23 17:56:33,450 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,451 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,452 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Sam
+2022-06-23 17:56:33,452 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,453 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,455 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Linda
+2022-06-23 17:56:33,455 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,456 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,459 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Sasha
+2022-06-23 17:56:33,460 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,460 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,463 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Lisa
+2022-06-23 17:56:33,463 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,463 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,466 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Matthew
+2022-06-23 17:56:33,466 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,467 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,468 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Jesus
+2022-06-23 17:56:33,468 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,469 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,471 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for James
+2022-06-23 17:56:33,471 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-23 17:56:33,471 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-23 17:56:33,473 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Karen
+2022-06-24 12:40:59,140 INFO c.i.j.JdbcHelper [main] an sql statement successfully created
+2022-06-24 12:40:59,163 INFO c.i.j.JdbcHelper [main] query executed successfully
+2022-06-24 12:40:59,168 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,188 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,198 INFO c.i.j.JdbcHelper [main] Query returned 3 record(s) for John
+2022-06-24 12:40:59,199 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,200 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,203 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Jane
+2022-06-24 12:40:59,203 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,204 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,206 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Faye
+2022-06-24 12:40:59,206 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,206 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,209 INFO c.i.j.JdbcHelper [main] Query returned 2 record(s) for Daniel
+2022-06-24 12:40:59,210 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,210 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,212 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Sam
+2022-06-24 12:40:59,212 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,213 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,214 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Linda
+2022-06-24 12:40:59,215 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,215 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,218 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Sasha
+2022-06-24 12:40:59,218 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,219 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,221 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for Lisa
+2022-06-24 12:40:59,221 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,223 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,225 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Matthew
+2022-06-24 12:40:59,225 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,226 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,227 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Jesus
+2022-06-24 12:40:59,227 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,228 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,229 INFO c.i.j.JdbcHelper [main] Query returned 1 record(s) for James
+2022-06-24 12:40:59,229 DEBUG c.i.j.JdbcHelper [main] Connection to database Successful
+2022-06-24 12:40:59,231 INFO c.i.j.JdbcHelper [main] An sql statement successfully created
+2022-06-24 12:40:59,232 INFO c.i.j.JdbcHelper [main] Query returned 0 record(s) for Karen
