@@ -12,8 +12,7 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import java.util.List;
 
 public class JdbcTemplateMain {
-    //public static DriverManagerDataSource con = new DriverManagerDataSource();
-    public static JdbcTemplate jdbcTemplate ;
+    public static JdbcTemplate jdbcTemplate = getConnectedJdbcTemplate();
     public static void main(String[] args) {
 
         jdbcTemplate = getConnectedJdbcTemplate();
@@ -36,14 +35,14 @@ public class JdbcTemplateMain {
     }
 
     // SELECT * FROM Parents;
-    private List<Parent> getParents(){
+    public List<Parent> getParents(){
         // run query, mapping each row to a result object using row mapper
         List<Parent> parentList = jdbcTemplate.query(DBHelper.PARENT_SELECT_QUERY, new ParentRowMapper());
 
         // this is equivalent to for loop
         parentList.forEach( p -> {
             // add list of children to parent object
-            List<Child> childList = getChildren(p);
+            List<Child> childList = getChildrenPerParent(p);
             p.setChildren(childList);
             System.out.println(p);
         });
@@ -53,7 +52,7 @@ public class JdbcTemplateMain {
     }
 
     // get children for a specific parent
-    public List<Child> getChildren(Parent p) {
+    public List<Child> getChildrenPerParent(Parent p) {
         List<Child> children = jdbcTemplate.query(DBHelper.
                 CHILDREN_PER_PARENT_QUERY, new ChildRowMapper(), p.getId());
         return children;
@@ -70,7 +69,7 @@ public class JdbcTemplateMain {
     }
 
     // return parent for a specific child
-    public Parent getParent(int parentId){
+    public Parent getParentGivenId(int parentId){
         Parent p = (Parent) jdbcTemplate.
                 queryForObject(DBHelper.PARENT_BY_ID_QUERY, new ParentRowMapper(), parentId);
         return p;

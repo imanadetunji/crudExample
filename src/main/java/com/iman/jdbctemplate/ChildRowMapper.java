@@ -21,6 +21,6 @@ public class ChildRowMapper implements RowMapper {
         return c;
     }
     private Parent getParent(int parentId) {
-        return new JdbcTemplateMain().getParent(parentId);
+        return new JdbcTemplateMain().getParentGivenId(parentId);
     }
 }
